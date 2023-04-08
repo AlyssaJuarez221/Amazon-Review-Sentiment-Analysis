@@ -1,1 +1,0 @@
-The Dataset for this project can be found at https://www.kaggle.com/datasets/eswarchandt/amazon-music-reviews
